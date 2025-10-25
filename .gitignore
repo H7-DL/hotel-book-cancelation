@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+artifacts/
+logs/
+*.log
+.DS_Store
+Thumbs.db
+# Optional: ignore data if you don't want to commit dataset
+# data/*.csv
